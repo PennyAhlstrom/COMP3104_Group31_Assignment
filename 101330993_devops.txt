@@ -3,3 +3,9 @@ COMP 2156 DevOps - course notes
 CI/CD automates build, test, and integration steps to improve speed and reliability.
 
 A DevOps engineer ensures software isn’t done until it’s successfully delivered to users, meeting expectations around availability, performance, and pace of change.
+
+Infrastructure Automation → systems, configs, deployments as code
+
+Continuous Delivery → automated build, test, deploy pipelines
+
+Monitoring & Feedback → transparency, reporting, shortened lead time
