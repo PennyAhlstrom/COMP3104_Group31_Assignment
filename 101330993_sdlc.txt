@@ -1,0 +1,18 @@
+DevOps in the SDLC - why it matters
+
+DevOps enables frequent and smaller releases.
+
+Automation reduces manual steps, speeding up deployment.
+
+Shorter release cycles mean faster time-to-market.
+
+Continuous monitoring and feedback reduce failures.
+
+Automated testing ensures code quality at every stage.
+
+Rollback strategies and CI/CD pipelines make releases more stable.
+Breaks silos between developers and operations.
+
+Improves transparency, accountability, and shared responsibility.
+
+Encourages communication and faster problem-solving.
