@@ -1,1 +1,3 @@
 COMP 2156 DevOps - course notes
+
+CI/CD automates build, test, and integration steps to improve speed and reliability.
