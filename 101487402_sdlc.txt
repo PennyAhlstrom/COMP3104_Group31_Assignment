@@ -1,1 +1,2 @@
 shifa karnelia - : software devlopment cycle 
+SDLC Methodologies are used to create software according to project requirements. These are essentially used to structure and plan the requirements of the system in software development.
