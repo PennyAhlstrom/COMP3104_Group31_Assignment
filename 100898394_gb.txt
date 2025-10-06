@@ -9,13 +9,16 @@ Key aspects of Git Bash:
 1. Git Integration:
    It provides access to the full suite of Git commands for version control, enabling users to manage repositories, commit changes, 
    merge branches, and interact with remote repositories.
-Bash Shell:
-It includes the Bash (Bourne Again SHell) command-line interpreter, which is the default shell on Linux and macOS. 
-This allows Windows users to utilize common Unix-like commands (e.g., ls, pwd, cp, mv) in addition to Git commands.
-Emulation Layer:
-Since Windows is not a Unix-based operating system, Git Bash provides the necessary emulation to run Git's command-line tools,
- which were originally designed for Unix-like environments.
-Utilities:
-It also includes various useful Bash utilities, such as ssh, cat, scp, and nano, enhancing the command-line experience on Windows.
-In essence, Git Bash brings the familiar and powerful command-line environment of Unix-like systems to Windows, making it easier 
-for developers to work with Git and perform common development tasks from the terminal. 
+
+2. Bash Shell:
+   It includes the Bash (Bourne Again SHell) command-line interpreter, which is the default shell on Linux and macOS. 
+   This allows Windows users to utilize common Unix-like commands (e.g., ls, pwd, cp, mv) in addition to Git commands.
+
+3. Emulation Layer:
+   Since Windows is not a Unix-based operating system, Git Bash provides the necessary emulation to run Git's command-line tools,
+   which were originally designed for Unix-like environments.
+
+4. Utilities:
+   It also includes various useful Bash utilities, such as ssh, cat, scp, and nano, enhancing the command-line experience on Windows.
+   In essence, Git Bash brings the familiar and powerful command-line environment of Unix-like systems to Windows, making it easier 
+   for developers to work with Git and perform common development tasks from the terminal. 
