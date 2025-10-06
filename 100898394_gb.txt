@@ -1,4 +1,5 @@
 James Jones - COMP3104 - Git Bash Notes
+
 Git Bash is an application for Microsoft Windows environments that provides an emulation layer for a Git command-line experience.
  It is part of the Git for Windows package and allows Windows users to interact with Git and execute Git commands in a Bash shell
  environment. 
