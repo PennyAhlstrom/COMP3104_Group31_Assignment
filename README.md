@@ -3,7 +3,7 @@
 ## Group Members
 - **Leader:** Penny 
 - **Member:** Nezihe Tekin 101330993 – https://github.com/enezihe
-- **Member:** 
+- **Member:** Shifa Karnelia 101487402 - https://github.com/shifaKarnelia
 - **Member:** 
 - **Member:** 
 
