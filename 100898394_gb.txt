@@ -1,1 +1,2 @@
 James Jones - COMP3104 - Git Bash Notes
+Practicing working with Git Hub through VS Code
