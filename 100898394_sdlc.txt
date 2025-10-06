@@ -4,6 +4,6 @@ James Jones - SDLC Phases and Methodologies
    SDLC, or software development life cycle, is a methodology that defines the entire procedure of software development step-by-step.
    The goal of the SDLC life cycle model is to deliver high-quality, maintainable software that meets the user's requirements.
 
-SDLC in software engineering models outlines the plan for each stage so that each stage of the software development model 
-can perform its task efficiently to deliver the software at a low cost within a given time frame that meets users requirements. 
-In this article we will see Software Development Life Cycle (SDLC) in detail.
+2. SDLC in software engineering models outlines the plan for each stage so that each stage of the software development model 
+   can perform its task efficiently to deliver the software at a low cost within a given time frame that meets users requirements. 
+   In this article we will see Software Development Life Cycle (SDLC) in detail.
