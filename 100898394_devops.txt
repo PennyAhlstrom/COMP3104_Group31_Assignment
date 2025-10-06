@@ -6,8 +6,8 @@ The goals of DevOps are:
 
 1. Faster and continuous software releases.
 2. Reduces manual errors through automation.
-Built-in Monitoring, detect failures or issues during delivery or in production.
-Automate testing throughout the software delivery process.
+3. Built-in Monitoring, detect failures or issues during delivery or in production.
+4. Automate testing throughout the software delivery process.
 Before DevOps, software delivery was slow and manual. Separate teams handled coding, server setup, testing, and deployment, 
 leading to delays and frequent errors due to lack of automation.
 With DevOps, the process is fast, automated, and collaborative. Using tools like Git, Jenkins, Docker, and Kubernetes, 
