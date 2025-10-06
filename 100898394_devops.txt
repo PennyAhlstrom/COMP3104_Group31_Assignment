@@ -3,7 +3,7 @@ DevOps is a combination of two words: "Development" and "Operations." It’s a m
 
 The goals of DevOps are:
 
-Faster and continuous software releases.
+1. Faster and continuous software releases.
 Reduces manual errors through automation.
 Built-in Monitoring, detect failures or issues during delivery or in production.
 Automate testing throughout the software delivery process.
