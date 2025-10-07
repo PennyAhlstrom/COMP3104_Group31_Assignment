@@ -1,3 +1,4 @@
 COMP3104 - DevOps Course
 This course takes a deep dive into continuous integration and deployment (CI/CD), teaching students how to use Git and GitHub to collaborate effectively on projects. It provides a solid understanding of the DevOps engineer’s role within the Software Development Life Cycle (SDLC) and how they serve as a bridge between development and operations.
+Students also gain hands-on experience with automation tools and modern deployment practices, building the practical skills needed to manage real-world software projects efficiently and reliably.
 An essential course to add to the toolkit of any aspiring programmer.
