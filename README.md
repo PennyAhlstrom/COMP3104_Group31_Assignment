@@ -4,7 +4,7 @@
 - **Leader:** Penny Ahlstrom 101488485 - https://github.com/PennyAhlstrom
 - **Member:** Nezihe Tekin 101330993 - https://github.com/enezihe
 - **Member:** Shifa Karnelia 101487402 - https://github.com/shifaKarnelia
-- **Member:** 
+- **Member:** Omar McIntosh 101032428 - https://github.com/lectureceleb
 - **Member:** 
 - **Member:** 
 
