@@ -1,1 +1,3 @@
 Tools such as CI/CD can help to automate portions of the software development cycle.
+
+By automating repititive tasks, developor can focus their energy on create new software or maininting current releases.
