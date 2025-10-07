@@ -1,0 +1,3 @@
+DevOps in the Software Development Life Cycle
+Vital in modern software development and todays fast paced technology landscape. 
+Incorporating DevOps in software development ensures faster delivery, higher quality, and more reliable software. When the process from coding to deployment is streamlined, through effective collaboration and continuous integration, where testing and monitoring is incorporated in the process, the end result is better. Errors are reduced, adaptations can quickly be made, and the software is highly reliable. DevOps is essential.
