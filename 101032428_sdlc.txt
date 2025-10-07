@@ -1,0 +1,1 @@
+Tools such as CI/CD can help to automate portions of the software development cycle.
