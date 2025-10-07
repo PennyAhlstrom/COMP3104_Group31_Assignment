@@ -1,1 +1,3 @@
 COMP 3104 teaches students skills needed to be a DevOps engineer.
+
+Topscs such as continuous integration (CI) and continuous delivery (CD) are covered.
