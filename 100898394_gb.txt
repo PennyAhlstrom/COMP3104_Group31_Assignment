@@ -11,7 +11,7 @@ Key aspects of Git Bash:
    merge branches, and interact with remote repositories.
 
 2. Bash Shell:
-   It includes the Bash (Bourne Again SHell) command-line interpreter, which is the default shell on Linux and macOS. 
+   It includes the Bash (Bourne Again Shell) command-line interpreter, which is the default shell on Linux and macOS. 
    This allows Windows users to utilize common Unix-like commands (e.g., ls, pwd, cp, mv) in addition to Git commands.
 
 3. Emulation Layer:
