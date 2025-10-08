@@ -1,0 +1,16 @@
+James Jones - DevOps Concepts and CI/CD Notes
+
+DevOps is a combination of two words: "Development" and "Operations." It’s a modern approach where software developers
+and software operations teams work together throughout the entire software life cycle.
+
+The goals of DevOps are:
+
+1. Faster and continuous software releases.
+2. Reduces manual errors through automation.
+3. Built-in Monitoring, detect failures or issues during delivery or in production.
+4. Automate testing throughout the software delivery process.
+ 
+Before DevOps, software delivery was slow and manual. Separate teams handled coding, server setup, testing, and deployment, 
+leading to delays and frequent errors due to lack of automation. With DevOps, the process is fast, automated, and collaborative.
+Using tools like Git, Jenkins, Docker, and Kubernetes, teams can build, test, and deploy code continuously, 
+enabling deployment in hours instead of days.
