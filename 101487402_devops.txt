@@ -1,4 +1,4 @@
-shifa karnelia -: Information about the COMP 3104 DevOps course.
+shifa karnelia -> Information about the COMP 3104 DevOps course.
 
 This course is designed to equip future IT professionals with the essential skills needed in environments where servers, web applications, and infrastructure are central to business operations. COMP 3104 offers a hands-on learning experience focused on proven DevOps tools and technologies.
 
