@@ -1,0 +1,10 @@
+sana karnelia -> software devlopment cycle
+SDLC Process:
+
+Software Development Life Cycle (SDLC) methodologies provide a structured framework for designing, building, testing, and delivering software that meets specific project needs. These approaches help teams organize and manage system requirements effectively throughout each stage of development.
+
+Significance of Learning DevOps in the SDLC:
+
+Gaining knowledge of DevOps is vital to modern software development, as it connects the work of development and operations teams to achieve faster, more dependable, and continuous software delivery.
+
+By adopting DevOps principles, organizations can automate repetitive processes, enhance teamwork, and implement Continuous Integration and Continuous Deployment (CI/CD) pipelines that reduce human errors and accelerate product releases. Understanding DevOps equips developers with the ability to oversee the entire lifecycle of an application—from initial coding to deployment and ongoing maintenance—resulting in improved software quality, faster updates, and an enhanced user experience.
