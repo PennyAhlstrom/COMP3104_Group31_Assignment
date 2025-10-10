@@ -1,1 +1,4 @@
 sana karnelia -> software devlopment cycle
+SDLC Process:
+
+Software Development Life Cycle (SDLC) methodologies provide a structured framework for designing, building, testing, and delivering software that meets specific project needs. These approaches help teams organize and manage system requirements effectively throughout each stage of development.
