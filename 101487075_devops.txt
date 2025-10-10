@@ -1,3 +1,5 @@
 sana karnelia -> information about the Comp 3104 DevOps course.
 
 This course prepares aspiring IT professionals with the core competencies required to thrive in environments where servers, web applications, and digital infrastructure drive business success. COMP 3104 provides a practical, hands-on approach to learning key DevOps principles, tools, and technologies.
+
+Students will examine real industry cases illustrating how companies have either faced major setbacks or achieved remarkable efficiency through their DevOps strategies. By using platforms and tools such as Amazon Web Services (AWS), Ansible, Docker, and Travis CI, you’ll gain direct experience in managing full deployment pipelines and automating updates for live web applications.
