@@ -20,7 +20,9 @@ cd COMP3104_Group31_Assignment
 git checkout STUDENTID-Name   
 
 ## CI/CD Pipeline
-- 
+- GitHub Actions is utilized for the project for continuous integration. The workflow is defined
+in `.github/workflows/ci.yml`.
+
 
 ## Branching Strategy
 - Each team member creates their own branch, commits changes, and merge with `main` via Pull Requests.
