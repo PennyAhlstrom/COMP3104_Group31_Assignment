@@ -5,8 +5,8 @@
 - **Member:** Nezihe Tekin 101330993 - https://github.com/enezihe
 - **Member:** Shifa Karnelia 101487402 - https://github.com/shifaKarnelia
 - **Member:** Omar McIntosh 101032428 - https://github.com/lectureceleb
-- **Member:** sana karnelia 101487075 - https://github.com/sanakarnelia
-- **Member:** 
+- **Member:** Sana Karnelia 101487075 - https://github.com/sanakarnelia
+- **Member:** James Jones 100898394 - https://github.com/JamesJones-compsci
 
 ## Project Description
 - Practice Git basics: branch, commit, push, PR, and conflict resolution.
